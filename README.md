@@ -26,4 +26,4 @@ PS: This software will check the price from target website every 5 minutes.
   
 For security, I will not provide any environment variable I used in this software.  
   
-![image](https://github.com/MarkCL/currencyBot/IMG_1978.PNG). 
+![image](https://github.com/MarkCL/currencyBot/IMG_1978.jpg). 
