@@ -26,5 +26,6 @@ PS: This software will check the price from target website every 5 minutes.
   
 For security, I will not provide any environment variable I used in this software.  
 
-<img src="/IMG_1978.jpg" width="292" height="640">
-<img src="/CurrencyReporter-main.jpg" width="292" height="640">
+<img src="/IMG_1978.jpg" width="292" height="640"><img src="/CurrencyReporter-main.jpg" width="292" height="640"><img src="/CurrencyReporter-loadUserTargetFromDB.jpg" width="292" height="640">
+<img src="/CurrencyReporter-startUpdateCurrencyData.jpg" width="292" height="640"><img src="/CurrencyReporter-startUpdatePreparedKeyAndClearInvalidUserPool.jpg" width="292" height="300"><img src="/CurrencyReporter-startSweepFacebookApiTimesCounter.jpg" width="292" height="300">
+<img src="/CurrencyReporter-startSweepTestUsers.jpg" width="292" height="250"><img src="/CurrencyReporter-handleLineAndFacebookMessages.jpg" width="292" height="400">
