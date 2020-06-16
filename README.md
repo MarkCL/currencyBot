@@ -27,3 +27,4 @@ PS: This software will check the price from target website every 5 minutes.
 For security, I will not provide any environment variable I used in this software.  
 
 <img src="/IMG_1978.jpg" width="292" height="640">
+<img src="/CurrencyReporter-main.jpg" width="292" height="640">
