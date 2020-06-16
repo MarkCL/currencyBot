@@ -1,5 +1,5 @@
 # currencyBot
-Combined Web crawler and FacebookMessenger/Line API in Golang to notify currency rate with message. This software can be deploy/run on heroku.
+Combined Web crawler and FacebookMessenger/Line API in Golang to notify currency rate by message once the currency rate meet your target. This software has been tested and deployed to heroku.
 
 To use this software:
 1. Apply a facebook developer account and a line developer account.
